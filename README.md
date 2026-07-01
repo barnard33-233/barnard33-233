@@ -2,7 +2,7 @@
 
 - :bust_in_silhouette: A student.
 - :school: Wuhan University
-- Currently working on confidential computing
+- Firmware, Kernel, Security...
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barnard33-233&layout=compact&hide=html,scss,css">
 -->
